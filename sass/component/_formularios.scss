@@ -6,14 +6,27 @@
     &__nombre {
     }
     &__inputNombre {
+      padding: 20px;
+      &::placeholder {
+        color: #334b4e;
+}
     }
     &__email {
     }
     &__inputEmail {
+      padding: 20px;
+       &::placeholder {
+        color: #334b4e;
+}
     }
     &__localidad {
+      
     }
     &__inputLocalidad {
+      padding: 20px;
+      &::placeholder {
+        color: #334b4e;
+}
     }
     &__tituloEncuesta {
     }
